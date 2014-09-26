@@ -1,8 +1,10 @@
 np-ocr
 ======
-==============
+
+
 Do not use now - its very permitive
-==============
+===================================
+
 
 Very Permitive now
 
